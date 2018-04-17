@@ -1,0 +1,5 @@
+pro/
+*.uvgui*
+*.uvopt*
+JXGF_LNG_V4.0/Listings
+JXGF_LNG_V4.0/output
